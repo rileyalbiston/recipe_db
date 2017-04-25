@@ -2,7 +2,7 @@
 
 	require_once('nav.php');
 	
-	echo "<a href='/tracrecipe/'>Home</a><br />";
+	echo "<a href='/recipe_db/'>Home</a><br />";
 
 	echo "Name: " . $row['recipe_name'] . "<br />";
 	echo "Date: " . $row['recipe_date'] . "<br />";

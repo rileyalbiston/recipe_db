@@ -1,5 +1,10 @@
 <?php
 
+//
+// This is the original test file for showing a single recipe before
+// seperating it into a (rough) MVC format
+//
+
 	$servername = "localhost";
 	$username = "root";
 	$password = "";

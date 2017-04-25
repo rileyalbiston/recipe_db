@@ -1,5 +1,9 @@
 <?php
 
+//
+// The first file I created when I started playing around with the php interface
+//
+
 	$servername = "localhost";
 	$username = "root";
 	$password = "";
